@@ -1,6 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=50&pause=1000&color=B0C4DE&center=true&vCenter=true&width=1000&height=100&lines=Ol%C3%A1%2C+me+chamo+Cl%C3%A1udio+Marzo;Sou+de+Mau%C3%A9s+-+Amazonas)](https://git.io/typing-svg)
 
 
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ClaudioMarzo&bg_color=1a1919&color=c0b5bf&line=616ab3&point=b8c507&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">  
