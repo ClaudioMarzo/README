@@ -5,9 +5,9 @@
   <a href="https://www.linkedin.com/in/cl%C3%A1udio-marzo-442627206/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<div align="center">
-     <img height="180em" w src="https://github-readme-stats.vercel.app/api?username=ClaudioMarzo&show_icons=true&theme=dracula&"/>
-     <img height="180em" with="20"src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudioMarzo&layout=compact&langs_count=7&theme=dracula"/>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ClaudioMarzo&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudioMarzo&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
 </div>
 
 <div style="display: inline_block" align="center"><br>
@@ -30,3 +30,8 @@
      
 </div>
 
+<div align="center">
+<br><p align="centre"><b>Contagem de Visitantes</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{ClaudioMarzo}/count.svg" /></p> 
+<br>
+</div>
