@@ -1,15 +1,16 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=50&pause=1000&color=D3F738&center=true&vCenter=true&width=1000&height=100&lines=Ol%C3%A1%2C+me+chamo+Cl%C3%A1udio+Marzo;Sou+de+Mau%C3%A9s+-+Amazonas)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=50&pause=1000&color=B0C4DE&center=true&vCenter=true&width=1000&height=100&lines=Ol%C3%A1%2C+me+chamo+Cl%C3%A1udio+Marzo;Sou+de+Mau%C3%A9s+-+Amazonas)](https://git.io/typing-svg)
 
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ClaudioMarzo&bg_color=1a1919&color=c0b5bf&line=616ab3&point=b8c507&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ClaudioMarzo&show_icons=true&count_private=true&hide_border=true&title_color=B0C4DE&text_color=c9d1d9&bg_color=0d1117" alt="Cláudio Marzo github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudioMarzo&layout=compact&hide_border=true&title_color=B0C4DE&text_color=ff91a4&bg_color=0d1117" />
+</div>
 <div align="center"> 
   <a href="https://www.instagram.com/claudiomarzo.me/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/cl%C3%A1udio-marzo-442627206/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ClaudioMarzo&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudioMarzo&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
-</div>
-
 <div style="display: inline_block" align="center"><br>
   <h2>Tecnologias que utilizo atualmente</h2>
   <img align="center"  src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
