@@ -18,6 +18,7 @@
   <img align="center"  src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white">
+  <img align="center" src="https://img.shields.io/badge/-.NET%206.0-blueviolet&logo=.net&logoColor=white"">
 </div>
 
 <div style="display: inline_block" align="center"><br>
