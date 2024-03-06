@@ -1,9 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=50&pause=1000&color=B0C4DE&center=true&vCenter=true&width=1000&height=100&lines=Ol%C3%A1%2C+me+chamo+Cl%C3%A1udio+Marzo;Sou+de+Mau%C3%A9s+-+Amazonas)](https://git.io/typing-svg)
 
 
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ClaudioMarzo&bg_color=1a1919&color=c0b5bf&line=616ab3&point=b8c507&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ClaudioMarzo&show_icons=true&count_private=true&hide_border=true&title_color=B0C4DE&text_color=c9d1d9&bg_color=0d1117" alt="Cláudio Marzo github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudioMarzo&layout=compact&hide_border=true&title_color=B0C4DE&text_color=ff91a4&bg_color=0d1117" />
@@ -16,9 +13,10 @@
   <h2>Tecnologias que utilizo atualmente</h2>
   <img align="center"  src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
   <img align="center"  src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
-  <img align="center" src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white">
+  <img align="center"  src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/-.NET%206.0-blueviolet?style=for-the-badge&logo=.net&logoColor=white"">
+  <img align="center"  src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
 </div>
 
 <div style="display: inline_block" align="center"><br>
@@ -27,8 +25,6 @@
   <img align="center"  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img align="center"  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center"  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center"  src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-  <img align="center"  src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
   <img align="center"  src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
      
 </div>
