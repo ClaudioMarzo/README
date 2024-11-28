@@ -6,7 +6,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudioMarzo&layout=compact&hide_border=true&title_color=B0C4DE&text_color=ff91a4&bg_color=0d1117" />
 </div>
 <div align="center"> 
-  <a href="https://www.instagram.com/claudiomarzo.me/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/claudiomarzo_/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/cl%C3%A1udio-marzo-442627206/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 <div style="display: inline_block" align="center"><br>
