@@ -2,42 +2,44 @@ name: Gerar Cobra
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
+    - cron: "0 */12 * * *" # Executa automaticamente a cada 12 horas
+  workflow_dispatch: # Permite execução manual
   push:
     branches:
-      - main
+      - main # Executa automaticamente em qualquer push na branch "main"
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-latest # Usa o runner mais recente baseado no Ubuntu
 
     steps:
+      # Etapa 1: Clonar o repositório
       - name: Clonar repositório
         uses: actions/checkout@v3
 
+      # Etapa 2: Criar o diretório `dist` para arquivos gerados
       - name: Criar diretório dist
         run: mkdir -p ./dist && chmod -R 777 ./dist/
 
-      - name: Adicionar arquivo config.json
-        run: cp ./.github/workflows/config.json ./dist/
-
+      # Etapa 3: Gerar os arquivos da cobra
       - name: Gerar os arquivos da cobra
-        uses: Platane/snk@v3
+        uses: Platane/snk@v3 # Ação para gerar a cobra
         id: snake-gif
         with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
+          github_user_name: ${{ github.repository_owner }} # Nome do usuário GitHub
+          config: ./.github/workflows/config.json # Passa o caminho do config.json diretamente
+          outputs: | # Define os arquivos de saída gerados
             dist/github-contribution-grid-snake.gif
             dist/github-contribution-grid-snake.svg
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # Token para autenticação
 
+      # Etapa 4: Publicar os arquivos gerados na branch `output`
       - name: Publicar novos arquivos na branch de saída
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          target_branch: output
-          build_dir: dist
-          commit_message: Atualizar animações da cobra
+          target_branch: output # Define a branch onde os arquivos serão enviados
+          build_dir: dist # Diretório onde os arquivos gerados estão armazenados
+          commit_message: Atualizar animações da cobra # Mensagem do commit
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # Token para autenticação
