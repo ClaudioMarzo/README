@@ -11,16 +11,18 @@
 </div>
 <div style="display: inline_block" align="center"><br>
   <h2>Tecnologias que utilizo atualmente</h2>
-  <img align="center"  src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-  <img align="center"  src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
   <img align="center"  src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white">
-  <img align="center" src="https://img.shields.io/badge/-.NET%206.0-blueviolet?style=for-the-badge&logo=.net&logoColor=white"">
+  <img align="center" src="https://img.shields.io/badge/-.NET%206.0-blueviolet?style=for-the-badge&logo=.net&logoColor=white">
   <img align="center"  src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+  <img align="center" src="https://img.shields.io/badge/Pascal-0096D6?style=for-the-badge&logo=pascal&logoColor=white">
+  <img align="center" src="https://img.shields.io/badge/Delphi-EE1F35?style=for-the-badge&logo=delphi&logoColor=white">
 </div>
 
 <div style="display: inline_block" align="center"><br>
   <h2>Tecnologias que já trabalhei</h2>
+  <img align="center"  src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+  <img align="center"  src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
   <img align="center"  src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img align="center"  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img align="center"  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -34,5 +36,6 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{ClaudioMarzo}/count.svg" /></p> 
 <br>
 </div>
-
-![Snake animation](https://github.com/ClaudioMarzo/ClaudioMarzo/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <img src="https://github.com/ClaudioMarzo/ClaudioMarzo/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
+</div>
