@@ -43,7 +43,7 @@ jobs:
           
       # Etapa 3: Adicionar o arquivo `config.json` com as configurações personalizadas
       - name: Adicionar arquivo config.json
-        run: cp config.json ./dist/
+        run: cp ./config.json ./dist/
 
       # Etapa 4: Mostrar o status dos arquivos gerados
       - name: Exibir status de build
